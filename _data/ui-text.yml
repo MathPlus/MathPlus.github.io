@@ -26,6 +26,7 @@ en: &DEFAULT_EN
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
+  pronuncename_label         : "Hear me say my name"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
@@ -74,6 +75,7 @@ es: &DEFAULT_ES
   powered_by                 : "Powered by"
   website_label              : "Sitio web"
   email_label                : "Email"
+  pronuncename_label         : "Hear me say my name"
   recent_posts               : "Entradas recientes"
   undefined_wpm              : "Parametro words_per_minute (Palabras por minuto) no definido en _config.yml"
   comment_form_info          :
@@ -118,6 +120,7 @@ fr: &DEFAULT_FR
   powered_by                 : "Propulsé par"
   website_label              : "Site"
   email_label                : "Email"
+  pronuncename_label         : "Hear me say my name"
   recent_posts               : "Posts récents"
   undefined_wpm              : "Le paramètre words_per_minute n'est pas défini dans _config.yml"
   comment_form_info          :
@@ -164,6 +167,7 @@ tr: &DEFAULT_TR
   powered_by                 : "Emeği geçenler: "
   website_label              : "Web sayfası"
   email_label                : "E-posta"
+  pronuncename_label         : "Hear me say my name"
   recent_posts               : "Son yazılar"
   undefined_wpm              : "_config.yml dosyasında tanımlanmamış words_per_minute parametresi"
   comment_form_info          :
@@ -206,6 +210,7 @@ pt: &DEFAULT_PT
   powered_by                 : "Feito com"
   website_label              : "Site"
   email_label                : "Email"
+  pronuncename_label         : "Hear me say my name"
   recent_posts               : "Postagens recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
   comment_form_info          :
@@ -250,6 +255,7 @@ it: &DEFAULT_IT
   powered_by                 : "Powered by"
   website_label              : "Website"
   email_label                : "Email"
+  pronuncename_label         : "Hear me say my name"
   recent_posts               : "Articoli Recenti"
   undefined_wpm              : "Parametro words_per_minute non definito in _config.yml"
   comment_form_info          :

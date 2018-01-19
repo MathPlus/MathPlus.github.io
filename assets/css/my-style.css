@@ -1,0 +1,19 @@
+table {
+    border-style: none;
+    border-spacing: 0px;
+    width: 90%;
+    font-size: 95%;
+}
+th, td {
+    border-style: none;
+    vertical-align: top;
+    padding: 1px;
+    text-align: left;
+}
+a.aa:link, a.aa:visited {
+    color: Indigo;
+    text-decoration: none;
+}
+a.aa:hover, a.aa:active {
+    text-decoration: underline;
+}
