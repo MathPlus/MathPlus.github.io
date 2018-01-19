@@ -34,9 +34,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/EnclosureAlgoFPOR_SIAM-SIAG-AG-2017.Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/EnclosureAlgoFPOR_SIAM-SIAG-AG-2017.Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/EnclosureAlgoFPOR_SIAM-SIAG-AG-2017.html">
+        <a class="aa" target="GGnSndWndw" href="/files/EnclosureAlgoFPOR_SIAM-SIAG-AG-2017.html">
         Slide deck</a>
         </td>
     </tr>
@@ -65,9 +65,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Pharmacostatics_SMB2017.Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Pharmacostatics_SMB2017.Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Pharmacostatics_SMB2017.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Pharmacostatics_SMB2017.html">
         Slide deck</a>
         </td>
     </tr>
@@ -100,9 +100,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Species_Composition_in_CRNT__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Species_Composition_in_CRNT__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Species_Composition_in_CRNT.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Species_Composition_in_CRNT.html">
         Slide deck</a>
         </td>
     </tr>
@@ -133,9 +133,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/SpeciesComposition_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/SpeciesComposition_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/SpeciesComposition.html">
+        <a class="aa" target="GGnSndWndw" href="/files/SpeciesComposition.html">
         Slide deck</a>
         </td>
     </tr>
@@ -164,9 +164,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/BinaryEnzymaticNetworks_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/BinaryEnzymaticNetworks_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/BinaryEnzymaticNetworks.html">
+        <a class="aa" target="GGnSndWndw" href="/files/BinaryEnzymaticNetworks.html">
         Slide deck</a>
         </td>
     </tr>
@@ -195,9 +195,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/No2NoLigandDepletion_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/No2NoLigandDepletion_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/No2NoLigandDepletion.html">
+        <a class="aa" target="GGnSndWndw" href="/files/No2NoLigandDepletion.html">
         Slide deck</a>
         </td>
     </tr>
@@ -226,9 +226,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/PolySysDBEquil_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PolySysDBEquil_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/PolySysDBEquil.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PolySysDBEquil.html">
         Slide deck</a>
         </td>
     </tr>
@@ -257,9 +257,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/PolySysRecpPharmcol_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PolySysRecpPharmcol_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/PolySysRecpPharmcol.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PolySysRecpPharmcol.html">
         Slide deck</a>
         </td>
     </tr>
@@ -288,7 +288,7 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/PharmacologyCRNT.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PharmacologyCRNT.html">
         Slide deck</a>
         </td>
     </tr>
@@ -317,9 +317,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Non_Complex_Balanced__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Non_Complex_Balanced__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Non_Complex_Balanced.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Non_Complex_Balanced.html">
         Slide deck</a>
         </td>
     </tr>
@@ -348,9 +348,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/RefillingFCCs_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/RefillingFCCs_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/RefillingFCCs.html">
+        <a class="aa" target="GGnSndWndw" href="/files/RefillingFCCs.html">
         Slide deck</a>
         </td>
     </tr>
@@ -379,9 +379,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Persistence_by_Reachability__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Persistence_by_Reachability__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Persistence_by_Reachability.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Persistence_by_Reachability.html">
         Slide deck</a>
         </td>
     </tr>
@@ -409,9 +409,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Persistence_in_CRNT__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Persistence_in_CRNT__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Persistence_in_CRNT.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Persistence_in_CRNT.html">
         Slide deck</a>
         </td>
     </tr>
@@ -438,9 +438,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/PolynomialRBR_abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PolynomialRBR_abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/PolynomialRBR.html">
+        <a class="aa" target="GGnSndWndw" href="/files/PolynomialRBR.html">
         Slide deck</a>
         </td>
     </tr>
@@ -468,7 +468,7 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Complete_Nets_RBR_3.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Complete_Nets_RBR_3.html">
         Slide deck</a>
         </td>
     </tr>
@@ -503,9 +503,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Problems_Equil_RBR__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Problems_Equil_RBR__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Problems_Equil_RBR.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Problems_Equil_RBR.html">
         Slide deck</a>
         </td>
     </tr>
@@ -542,9 +542,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Complete_Nets_RBR_2__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Complete_Nets_RBR_2__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Complete_Nets_RBR_2.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Complete_Nets_RBR_2.html">
         Slide deck</a>
         </td>
     </tr>
@@ -575,9 +575,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Complete_Nets_RBR__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Complete_Nets_RBR__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Complete_Nets_RBR.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Complete_Nets_RBR.html">
         Slide deck</a>
         </td>
     </tr>
@@ -611,9 +611,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Intro_Complete_Nets__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Intro_Complete_Nets__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Intro_Complete_Nets.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Intro_Complete_Nets.html">
         Slide deck</a>
         </td>
     </tr>
@@ -640,9 +640,9 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/Positive_Polynomial_Diffeo__Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Positive_Polynomial_Diffeo__Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/Positive_Polynomial_Diffeo.html">
+        <a class="aa" target="GGnSndWndw" href="/files/Positive_Polynomial_Diffeo.html">
         Slide deck</a>
         </td>
     </tr>
@@ -674,11 +674,11 @@ layout: archive
     <tr>
         <td><tt>Content</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/RBRposter_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/RBRposter_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/RBRposterAd.html">
+        <a class="aa" target="GGnSndWndw" href="/files/RBRposterAd.html">
         Advertisement</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/RBRposter.html">
+        <a class="aa" target="GGnSndWndw" href="/files/RBRposter.html">
         Poster</a>
         </td>
     </tr>
@@ -707,9 +707,9 @@ layout: archive
     <tr>
         <td><tt>Content&nbsp;&nbsp;&nbsp;</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="../files/ChemEquil_Abstract.html">
+        <a class="aa" target="GGnSndWndw" href="/files/ChemEquil_Abstract.html">
         Abstract</a>&nbsp;&nbsp;
-        <a class="aa" target="GGnSndWndw" href="../files/ChemEquil.html">
+        <a class="aa" target="GGnSndWndw" href="/files/ChemEquil.html">
         Slide deck</a>
         </td>
     </tr>

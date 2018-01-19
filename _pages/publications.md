@@ -48,7 +48,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Pharmacostatics.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Pharmacostatics.html">
             Pharmacostatics.pdf</a>
         </td>
     </tr>
@@ -65,14 +65,14 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/EnclosureAlgoFPOR.html">
+            <a class="aa" target="GGnSndWndw" href="/files/EnclosureAlgoFPOR.html">
             EnclosureAlgoFPOR.pdf</a>
         </td>
     </tr>
     <tr>
         <td><tt>Supplement</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/EnclosureAlgoFPOR_suppl.html">
+            <a class="aa" target="GGnSndWndw" href="/files/EnclosureAlgoFPOR_suppl.html">
             EnclosureAlgoFPOR_suppl.pdf</a>
         </td>
     </tr>
@@ -123,14 +123,14 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/SampleBankMath.html">
+            <a class="aa" target="GGnSndWndw" href="/files/SampleBankMath.html">
             SampleBankMath.pdf</a>
         </td>
     </tr>
     <tr>
         <td><tt>Supplement</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Equidistribution3.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Equidistribution3.html">
             Equidistribution3.pdf</a> &#8211; An augmentation of the article below
         </td>
     </tr>
@@ -169,14 +169,14 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Equidistribution.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Equidistribution.html">
             Equidistribution.pdf</a>
         </td>
     </tr>
     <tr>
         <td><tt>Enhanced Postprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Equidistribution2.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Equidistribution2.html">
             Equidistribution2.pdf</a>
         </td>
     </tr>
@@ -215,7 +215,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/InjectivePolynomialMaps.html">
+            <a class="aa" target="GGnSndWndw" href="/files/InjectivePolynomialMaps.html">
             InjectivePolynomialMaps.pdf</a>
         </td>
     </tr>
@@ -256,7 +256,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Binary_Enzymatic_Networks.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Binary_Enzymatic_Networks.html">
             Binary_Enzymatic_Networks.pdf</a>
         </td>
     </tr>
@@ -297,7 +297,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Species_Composition.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Species_Composition.html">
             Species_Composition.pdf</a>
         </td>
     </tr>
@@ -337,7 +337,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Vacuous_Persistence.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Vacuous_Persistence.html">
             Vacuous_Persistence.pdf</a>
         </td>
     </tr>
@@ -355,7 +355,7 @@ author_profile: true
     <tr>
         <td><tt>Article</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/ConstructiveCRNT.html">
+            <a class="aa" target="GGnSndWndw" href="/files/ConstructiveCRNT.html">
             ConstructiveCRNT.pdf</a>
         </td>
     </tr>
@@ -419,14 +419,14 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/CalcEquilRAB.html">
+            <a class="aa" target="GGnSndWndw" href="/files/CalcEquilRAB.html">
             CalcEquilRAB.pdf</a>
         </td>
     </tr>
     <tr>
         <td><tt>Overview</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/CalcEquilRAB.overview.html">
+            <a class="aa" target="GGnSndWndw" href="/files/CalcEquilRAB.overview.html">
             CalcEquilRAB.overview.pdf</a>
         </td>
     </tr>
@@ -511,7 +511,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Reversible_Binding_Reactions.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Reversible_Binding_Reactions.html">
             Reversible_Binding_Reactions.pdf</a>
         </td>
     </tr>
@@ -551,7 +551,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/FixedPoint.html">
+            <a class="aa" target="GGnSndWndw" href="/files/FixedPoint.html">
             FixedPoint.pdf</a>
         </td>
     </tr>
@@ -611,7 +611,7 @@ author_profile: true
     <tr>
         <td><tt>Preprint</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/IL-1_bump.html">
+            <a class="aa" target="GGnSndWndw" href="/files/IL-1_bump.html">
             IL-1_bump.pdf</a>
         </td>
     </tr>
@@ -632,7 +632,7 @@ author_profile: true
     <tr>
         <td><tt>Article</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/EquilExists.html">
+            <a class="aa" target="GGnSndWndw" href="/files/EquilExists.html">
             EquilExists.pdf</a>
         </td>
     </tr>
@@ -667,7 +667,7 @@ author_profile: true
     <tr>
         <td><tt>Article</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/FixedPointAlgo_OPEN.html">
+            <a class="aa" target="GGnSndWndw" href="/files/FixedPointAlgo_OPEN.html">
             FixedPointAlgo_OPEN.pdf</a>
         </td>
     </tr>
@@ -701,7 +701,7 @@ author_profile: true
     <tr>
         <td><tt>Article</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="../files/Scaled_P1M1_RIP_Matrices.html">
+            <a class="aa" target="GGnSndWndw" href="/files/Scaled_P1M1_RIP_Matrices.html">
             Scaled_P1M1_RIP_Matrices.pdf</a>
         </td>
     </tr>
