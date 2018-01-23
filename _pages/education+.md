@@ -6,8 +6,6 @@ author_profile: true
 layout: archive
 ---
 
-<link rel="stylesheet" href="/assets/css/my-style.css"/>
-
 * <a class="aa" target="GGnSndWndw" href="https://www.coursera.org/specializations/deep-learning">**Deep Learning**</a> specialization on Coursera by <a class="aa" target="GGnSndWndw" href="https://www.deeplearning.ai/">deeplearning.ai</a> (<a class="aa" target="GGnSndWndw" href="http://www.andrewng.org/">Prof. Andrew Ng</a> et al.)
     1. <a class="aa" target="GGnSndWndw" href="https://www.coursera.org/learn/neural-networks-deep-learning/">Neural Networks and Deep Learning</a>&nbsp;&nbsp;<small>[<a class="aa" target="GGnSndWndw" href="https://www.coursera.org/account/accomplishments/records/UUCADF6UCTNW">16 October 2017</a>]</small>
     1. <a class="aa" target="GGnSndWndw" href="https://www.coursera.org/learn/deep-neural-network/">Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</a>&nbsp;&nbsp;<small>[<a class="aa" target="GGnSndWndw" href="https://www.coursera.org/account/accomplishments/records/NW35GRMFMPJN">27 October 2017</a>]</small>

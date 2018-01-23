@@ -6,8 +6,6 @@ author_profile: true
 layout: archive
 ---
 
-<link rel="stylesheet" href="/assets/css/my-style.css"/>
-
 * **PhD, Mathematics**, 1999<br/>
   University of Georgia, Athens, Georgia, USA<br/>
   *Infinite-Dimensional Modular Representation Theory*

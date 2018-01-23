@@ -6,8 +6,6 @@ author_profile: true
 layout: archive
 ---
 
-<link rel="stylesheet" href="/assets/css/my-style.css"/>
-
 * Associate Editor
     * <a class="aa" target="GGnSndWndw" href="http://www.siam.org/journals/siaga.php">SIAM Journal on Applied Algebra and Geometry</a>: 2016-2018.
 * Reviewer
