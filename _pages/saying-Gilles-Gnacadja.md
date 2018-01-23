@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 <audio controls>
-    <source src="/audio/saying-Gilles-Gnacadja.mp3" type="audio/mpeg">
+    <source src="{{ base_path }}/audio/saying-Gilles-Gnacadja.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
 </audio>
