@@ -5,7 +5,7 @@ excerpt: "Publications -- Gilles Gnacadja"
 author_profile: true
 ---
 
-<link rel="stylesheet" href="/assets/css/my-style.css"/>
+<link rel="stylesheet" href="assets/css/my-style.css"/>
 
 <table>
 
