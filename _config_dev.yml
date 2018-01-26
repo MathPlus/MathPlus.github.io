@@ -1,1 +1,5 @@
 url : ""
+
+analytics:
+  google:
+    tracking_id : ""
