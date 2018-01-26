@@ -1,5 +1,4 @@
-url : ""
+url: ""
 
 analytics:
-  google:
-    tracking_id : ""
+  provider: false
