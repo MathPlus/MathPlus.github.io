@@ -6,6 +6,8 @@ author_profile: true
 layout: archive
 ---
 
+<link rel="stylesheet" href="/assets/css/my-style.css"/>
+
 * **Life Sciences Mathematics and Algorithm Sciences, Amgen**<br/>
   *Drive advances in human therapeutics discovery, development, delivery and personalization through innovation, research and development in mathematics, modeling and simulation, and systems biology. Function as mathematical architect and custodian of mathematical integrity in multidisciplinary projects. Develop capabilities in sophisticated data analysis and machine learning for Digital Health applications*
   * Director; South San Francisco, California, USA; April 2016 &ndash; present

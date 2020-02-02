@@ -5,6 +5,8 @@ excerpt: "Publications -- Gilles Gnacadja"
 author_profile: true
 ---
 
+<link rel="stylesheet" href="/assets/css/my-style.css"/>
+
 <table>
 
     <tr><td colspan="2"><hr/></td></tr>

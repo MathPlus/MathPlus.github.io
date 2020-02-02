@@ -6,6 +6,8 @@ author_profile: true
 layout: archive
 ---
 
+<link rel="stylesheet" href="/assets/css/my-style.css"/>
+
 <table>
 
     <tr><td colspan="2"><hr/></td></tr>
