@@ -22,8 +22,8 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw" href="https://link.springer.com/journal/11538">
-            Bulletin of Mathematical Biology</a><!--,<br/>-->
-            <!--Volume v, Issue i, d mmm yyyy, Pages a-z-->
+            Bulletin of Mathematical Biology</a><br/>
+            Volume 81, Issue 9, September 2019, Pages 3642–3654
         </td>
     </tr>
     <tr>
@@ -31,12 +31,6 @@ author_profile: true
         <td>
         <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1007/s11538-017-0369-z">
         10.1007/s11538-017-0369-z</a>
-        </td>
-    </tr>
-    <tr>
-        <td><tt>Math Rev</tt></td>
-        <td>
-            <!--<a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=pending">-->pending<!--</a>-->
         </td>
     </tr>
     <tr>
