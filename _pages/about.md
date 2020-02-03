@@ -18,6 +18,6 @@ Professional affiliations
 ---
 * American Mathematical Society [<a class="aa" target="GGnSndWndw" href="http://www.ams.org/">AMS</a>]
 * Society for Industrial and Applied Mathematics [<a class="aa" target="GGnSndWndw" href="http://www.siam.org/">SIAM</a>]
-    * Activity Group on the Life Sciences [<a class="aa" target="GGnSndWndw" href="http://www.siam.org/activity/life-sciences/">SIAG/LS</a>]
-    * Activity Group on Algebraic Geometry [<a class="aa" target="GGnSndWndw" href="http://www.siam.org/activity/ag/">SIAG/AG</a>]
-    * Activity Group on Dynamical Systems [<a class="aa" target="GGnSndWndw" href="http://www.siam.org/activity/ds/">SIAG/DS</a>]
+    * Activity Group on Data Mining and Analytics [<a class="aa" target="GGnSndWndw" href="https://www.siam.org/membership/activity-groups/detail/data-mining-and-analytics">SIAG/DMA</a>]
+    * Activity Group on the Life Sciences [<a class="aa" target="GGnSndWndw" href="https://www.siam.org/membership/activity-groups/detail/life-sciences">SIAG/LS</a>]
+    * Activity Group on Algebraic Geometry [<a class="aa" target="GGnSndWndw" href="https://www.siam.org/membership/activity-groups/detail/algebraic-geometry-si-ag-2">SIAG/AG</a>]
