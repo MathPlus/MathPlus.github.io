@@ -14,7 +14,7 @@ layout: archive
   * Algorithm Sciences Director; April 2016 &ndash; present
   * Principal Analyst; November 2003 &ndash; April 2016
 * **Computational Photonics**<br/>
-  *Bell Labs Lucent Technologies, Greater Atlanta Area, Georgia, USA*<br/>
+  *Lucent Technologies Bell Labs, Greater Atlanta Area, Georgia, USA*<br/>
   Design and develop long-haul (terrestrial and oceanic) optical communication through research and development in mathematical physics, modeling and simulation, and optimization
   * Member of Technical Staff; April 2001 &ndash; October 2003
 * **Software Engineering**<br/>
