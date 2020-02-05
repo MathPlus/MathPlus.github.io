@@ -17,7 +17,7 @@ layout: archive
   *Bell Labs Lucent Technologies, Greater Atlanta Area, Georgia, USA*<br/>
   Design and develop long-haul (terrestrial and oceanic) optical communication through research and development in mathematical physics, modeling and simulation, and optimization
   * Member of Technical Staff; April 2001 &ndash; October 2003
-* **Software Engineering, MATRA Systems (now Omnico Group)**<br/>
-  *Greater Atlanta Area, Georgia, USA*<br/>
+* **Software Engineering**<br/>
+  *MATRA Systems (now Omnico Group), Greater Atlanta Area, Georgia, USA*<br/>
   Design and develop software and databases for point-of-sale, electronic transaction and operations monitoring applications in retail stores and back offices
   * Consulting Analyst; January 1999 &ndash; April 2001
