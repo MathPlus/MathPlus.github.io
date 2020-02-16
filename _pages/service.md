@@ -9,7 +9,7 @@ layout: archive
 <link rel="stylesheet" href="/assets/css/my-style.css"/>
 
 * Associate Editor
-    * <a class="aa" target="GGnSndWndw" href="http://www.siam.org/journals/siaga.php">SIAM Journal on Applied Algebra and Geometry</a>: 2016 &ndash; present.
+    * <a class="aa" target="GGnSndWndw" href="https://www.siam.org/publications/journals/siam-journal-on-applied-algebra-and-geometry-siaga">SIAM Journal on Applied Algebra and Geometry</a>: 2016 &ndash; present.
 * Reviewer
     * <a class="aa" target="GGnSndWndw" href="https://www.siam.org/journals/siads.php">SIAM Journal on Applied Dynamical Systems</a>: 2017.
     * <a class="aa" target="GGnSndWndw" href="http://link.springer.com/journal/285">Journal of Mathematical Biology</a>: 2010, 2011, 2012, 2013, 2015, 2016.
