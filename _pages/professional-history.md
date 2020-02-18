@@ -9,7 +9,7 @@ layout: archive
 <link rel="stylesheet" href="/assets/css/my-style.css"/>
 
 * **Mathematics and Data Science in the Life Sciences**<br/>
-  *Amgen, Greater Los Angeles Area and San Francisco Bay Area, California, USA*<br/>
+  *Amgen, Los Angeles Metropolitan Area and San Francisco Bay Area, California, USA*<br/>
   Driving discovery, development, delivery and personalization in human therapeutics through research and development in mathematics, modeling and simulation, systems biology, genomics and other omics, and data science.<br/> Championing grounding the practice of artificial intelligence on principled approaches and the pursuit of explainability and interpretability.
   * Algorithm Sciences Director; April 2016 &ndash; present
   * Principal Analyst; November 2003 &ndash; April 2016
