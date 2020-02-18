@@ -14,10 +14,10 @@ layout: archive
   * Algorithm Sciences Director; April 2016 &ndash; present
   * Principal Analyst; November 2003 &ndash; April 2016
 * **Computational Photonics**<br/>
-  *Lucent Technologies Bell Labs, Greater Atlanta Area, Georgia, USA*<br/>
+  *Lucent Technologies Bell Labs, Atlanta Metropolitan Area, Georgia, USA*<br/>
   Design and develop long-haul (terrestrial and oceanic) optical communication through research and development in mathematical physics, modeling and simulation, and optimization
   * Member of Technical Staff; April 2001 &ndash; October 2003
 * **Software Engineering**<br/>
-  *MATRA Systems (now Omnico Group), Greater Atlanta Area, Georgia, USA*<br/>
+  *MATRA Systems (now Omnico Group), Atlanta Metropolitan Area, Georgia, USA*<br/>
   Design and develop software and databases for point-of-sale, electronic transaction and operations monitoring applications in retail stores and back offices
   * Consulting Analyst; January 1999 &ndash; April 2001
