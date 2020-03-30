@@ -29,14 +29,14 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1007/s11538-017-0369-z">
+        <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1007/s11538-017-0369-z">
         10.1007/s11538-017-0369-z</a>
         </td>
     </tr>
     <tr>
         <td><tt>PubMed</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ncbi.nlm.nih.gov/pubmed/29214428">29214428</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ncbi.nlm.nih.gov/pubmed/29214428">29214428</a>
         </td>
     </tr>
     <tr>
@@ -103,7 +103,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.journals.elsevier.com/chemometrics-and-intelligent-laboratory-systems/">
+            href="https://www.journals.elsevier.com/chemometrics-and-intelligent-laboratory-systems/">
             Chemometrics and Intelligent Laboratory Systems</a>,<br/>
             Volume 125, 15 June 2013, Pages 67-73
         </td>
@@ -111,7 +111,7 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1016/j.chemolab.2013.03.004">10.1016/j.chemolab.2013.03.004</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1016/j.chemolab.2013.03.004">10.1016/j.chemolab.2013.03.004</a>
         </td>
     </tr>
     <tr>
@@ -143,7 +143,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.journals.elsevier.com/statistics-and-probability-letters/">
+            href="https://www.journals.elsevier.com/statistics-and-probability-letters/">
             Statistics and Probability Letters</a>,<br/>
             Volume 82, Issue 10, October 2012, Pages 1849-1852
         </td>
@@ -151,13 +151,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1016/j.spl.2012.05.025">10.1016/j.spl.2012.05.025</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1016/j.spl.2012.05.025">10.1016/j.spl.2012.05.025</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2956626">2956626</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2956626">2956626</a>
         </td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.journals.elsevier.com/linear-algebra-and-its-applications/">
+            href="https://www.journals.elsevier.com/linear-algebra-and-its-applications/">
             Linear Algebra and its Applications</a>,<br/>
             Volume 437, Issue 2, 15 July 2012, Pages 612-622
         </td>
@@ -197,13 +197,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1016/j.laa.2012.03.014">10.1016/j.laa.2012.03.014</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1016/j.laa.2012.03.014">10.1016/j.laa.2012.03.014</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2921721">2921721</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2921721">2921721</a>
         </td>
     </tr>
     <tr>
@@ -230,7 +230,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.springer.com/chemistry/physical+chemistry/journal/10910">
+            href="https://www.springer.com/chemistry/physical+chemistry/journal/10910">
             Journal of Mathematical Chemistry</a>,<br/>
             Volume 49, Number 10, November 2011, Pages 2158-2176
         </td>
@@ -238,13 +238,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1007/s10910-011-9895-3">10.1007/s10910-011-9895-3</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1007/s10910-011-9895-3">10.1007/s10910-011-9895-3</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2846709">2846709</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2846709">2846709</a>
         </td>
     </tr>
     <tr>
@@ -271,7 +271,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.springer.com/chemistry/physical+chemistry/journal/10910">
+            href="https://www.springer.com/chemistry/physical+chemistry/journal/10910">
             Journal of Mathematical Chemistry</a>,<br/>
             Volume 49, Number 10, November 2011, Pages 2137-2157
         </td>
@@ -279,13 +279,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1007/s10910-011-9896-2">10.1007/s10910-011-9896-2</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1007/s10910-011-9896-2">10.1007/s10910-011-9896-2</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2846708">2846708</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2846708">2846708</a>
         </td>
     </tr>
     <tr>
@@ -311,7 +311,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.springer.com/chemistry/physical+chemistry/journal/10910">
+            href="https://www.springer.com/chemistry/physical+chemistry/journal/10910">
             Journal of Mathematical Chemistry</a>,<br/>
             Volume 49, Number 10, November 2011, Pages 2117-2136
         </td>
@@ -319,13 +319,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1007/s10910-011-9894-4">10.1007/s10910-011-9894-4</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1007/s10910-011-9894-4">10.1007/s10910-011-9894-4</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2846707">2846707</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2846707">2846707</a>
         </td>
     </tr>
     <tr>
@@ -387,7 +387,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.elsevier.com/locate/mbs">
+            href="https://www.elsevier.com/locate/mbs">
             Mathematical Biosciences</a>,<br/>
             Volume 232, Issue 2, August 2011, Pages 135-141
         </td>
@@ -395,19 +395,19 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1016/j.mbs.2011.05.003">10.1016/j.mbs.2011.05.003</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1016/j.mbs.2011.05.003">10.1016/j.mbs.2011.05.003</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2849209">2849209</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2849209">2849209</a>
         </td>
     </tr>
     <tr>
         <td><tt>PubMed</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ncbi.nlm.nih.gov/pubmed/21645524">21645524</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ncbi.nlm.nih.gov/pubmed/21645524">21645524</a>
         </td>
     </tr>
     <tr>
@@ -442,7 +442,7 @@ author_profile: true
             Jenny Ying Lin Lu,
             Yuhua Yang,
             Gilles Gnacadja,
-            <a class="aa" target="GGnSndWndw" href="http://www.med.monash.edu.au/pharmacology/staff/arthur-christopoulos.html">
+            <a class="aa" target="GGnSndWndw" href="https://www.med.monash.edu.au/pharmacology/staff/arthur-christopoulos.html">
             Arthur Christopoulos</a> and
             Jeff D. Reagan
         </td>
@@ -450,7 +450,7 @@ author_profile: true
     <tr>
         <td><tt>Journal</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://jpet.aspetjournals.org/">
+            <a class="aa" target="GGnSndWndw" href="https://jpet.aspetjournals.org/">
             Journal of Pharmacology and Experimental Therapeutics</a>,<br/>
             Volume 331, Number 3, December 2009, Pages 775-786
         </td>
@@ -458,14 +458,14 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1124/jpet.109.159228">
+        <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1124/jpet.109.159228">
         10.1124/jpet.109.159228</a>
         </td>
     </tr>
     <tr>
         <td><tt>PubMed</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ncbi.nlm.nih.gov/pubmed/19759318">19759318</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ncbi.nlm.nih.gov/pubmed/19759318">19759318</a>
         </td>
     </tr>
 
@@ -485,7 +485,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.elsevier.com/wps/find/journaldescription.cws_home/622776/description">
+            href="https://www.elsevier.com/wps/find/journaldescription.cws_home/622776/description">
             Advances in Applied Mathematics</a>,<br/>
             Volume 43, Issue 4, October 2009, Pages 394-414
         </td>
@@ -493,13 +493,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1016/j.aam.2009.05.001">10.1016/j.aam.2009.05.001</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1016/j.aam.2009.05.001">10.1016/j.aam.2009.05.001</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2553547">2553547</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2553547">2553547</a>
         </td>
     </tr>
     <tr>
@@ -525,7 +525,7 @@ author_profile: true
         <td><tt>Journal</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www3.interscience.wiley.com/journal/2197/home/ProductInformation.html">
+            href="https://www3.interscience.wiley.com/journal/2197/home/ProductInformation.html">
             Mathematical Methods in the Applied Sciences</a>,<br/>
             Volume 30, Issue 2, 25 January 2007, Pages 201-211
         </td>
@@ -533,13 +533,13 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1002/mma.782">10.1002/mma.782</a>
+            <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1002/mma.782">10.1002/mma.782</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2285121">2285121</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2285121">2285121</a>
         </td>
     </tr>
     <tr>
@@ -566,11 +566,11 @@ author_profile: true
         <td><tt>Authors</tt></td>
         <td>
             Gilles Gnacadja,
-            <a class="aa" target="GGnSndWndw" href="http://www.linkedin.com/pub/2/213/13">
+            <a class="aa" target="GGnSndWndw" href="https://www.linkedin.com/pub/2/213/13">
             Alex Shoshitaishvili</a>,
-            <a class="aa" target="GGnSndWndw" href="http://www.linkedin.com/pub/5/832/6a9">
+            <a class="aa" target="GGnSndWndw" href="https://www.linkedin.com/pub/5/832/6a9">
             Michael J. Gresser</a>,
-            <a class="aa" target="GGnSndWndw" href="http://www.linkedin.com/pub/5/506/10">
+            <a class="aa" target="GGnSndWndw" href="https://www.linkedin.com/pub/5/506/10">
             Brian Varnum</a>,
             David Balaban, Mark Durst, Chris Vezina and Yu Li
         </td>
@@ -578,7 +578,7 @@ author_profile: true
     <tr>
         <td><tt>Journal</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.elsevier.com/wps/locate/issn/00225193">
+            <a class="aa" target="GGnSndWndw" href="https://www.elsevier.com/wps/locate/issn/00225193">
             Journal of Theoretical Biology</a>,<br/>
             Volume 244, Issue 3, 7 February 2007, Pages 478-488
         </td>
@@ -586,20 +586,20 @@ author_profile: true
     <tr>
         <td><tt>DOI</tt></td>
         <td>
-        <a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1016/j.jtbi.2006.07.023">
+        <a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1016/j.jtbi.2006.07.023">
         10.1016/j.jtbi.2006.07.023</a>
         </td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2293131">2293131</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2293131">2293131</a>
         </td>
     </tr>
     <tr>
         <td><tt>PubMed</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.ncbi.nlm.nih.gov/pubmed/17011587">17011587</a>
+            <a class="aa" target="GGnSndWndw" href="https://www.ncbi.nlm.nih.gov/pubmed/17011587">17011587</a>
         </td>
     </tr>
     <tr>
@@ -633,7 +633,7 @@ author_profile: true
     <tr>
         <td><tt>Online</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://mathoverflow.net/questions/68174/equilibria-exist-in-compact-convex-forward-invariant-sets">
+            <a class="aa" target="GGnSndWndw" href="https://mathoverflow.net/questions/68174/equilibria-exist-in-compact-convex-forward-invariant-sets">
             At MathOverflow
             </a>
         </td>
@@ -641,7 +641,7 @@ author_profile: true
     <tr>
         <td><tt>Online</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://gillesgnacadja.wordpress.com/2011/06/18/equilibria-exist-in-compact-convex-forward-invariant-sets/">
+            <a class="aa" target="GGnSndWndw" href="https://gillesgnacadja.wordpress.com/2011/06/18/equilibria-exist-in-compact-convex-forward-invariant-sets/">
             On my blog
             </a>
         </td>
@@ -668,7 +668,7 @@ author_profile: true
     <tr>
         <td><tt>Online</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://mathoverflow.net/questions/49202/map-transformation-to-force-convergence-to-unique-fixed-point">
+            <a class="aa" target="GGnSndWndw" href="https://mathoverflow.net/questions/49202/map-transformation-to-force-convergence-to-unique-fixed-point">
             At MathOverflow
             </a>
         </td>
@@ -676,7 +676,7 @@ author_profile: true
     <tr>
         <td><tt>Online</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://gillesgnacadja.wordpress.com/2010/12/19/map-transformation-to-force-convergence-to-unique-fixed-point/">
+            <a class="aa" target="GGnSndWndw" href="https://gillesgnacadja.wordpress.com/2010/12/19/map-transformation-to-force-convergence-to-unique-fixed-point/">
             On my blog
             </a>
         </td>
@@ -716,7 +716,7 @@ author_profile: true
     <tr>
         <td><tt>Authors</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://homepages.abdn.ac.uk/d.j.benson/html/index.html">
+            <a class="aa" target="GGnSndWndw" href="https://homepages.abdn.ac.uk/d.j.benson/html/index.html">
                 D. J. Benson
             </a>
             and G. Ph. Gnacadja
@@ -725,18 +725,18 @@ author_profile: true
     <tr>
         <td><tt>Journal</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.springer.com/math/algebra/journal/10468">
+            <a class="aa" target="GGnSndWndw" href="https://www.springer.com/math/algebra/journal/10468">
             Algebras and Representation Theory</a>,<br/>
             Volume 4, Number 4, October 2001, Pages 395-404
         </td>
     </tr>
     <tr>
         <td><tt>DOI</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1023/A:1012475019810">10.1023/A:1012475019810</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1023/A:1012475019810">10.1023/A:1012475019810</a></td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=1863392">1863392</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=1863392">1863392</a></td>
     </tr>
 
     <tr><td colspan="2"><hr/></td></tr>
@@ -751,7 +751,7 @@ author_profile: true
     <tr>
         <td><tt>Authors</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://homepages.abdn.ac.uk/d.j.benson/html/index.html">
+            <a class="aa" target="GGnSndWndw" href="https://homepages.abdn.ac.uk/d.j.benson/html/index.html">
                 D. J. Benson
             </a>
             and G. Ph. Gnacadja
@@ -760,18 +760,18 @@ author_profile: true
     <tr>
         <td><tt>Journal</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://journals.impan.gov.pl/fm/">
+            <a class="aa" target="GGnSndWndw" href="https://journals.impan.gov.pl/fm/">
             Fundamenta Mathematicae</a>,<br/>
             Volume 161, 1999, Pages 37-91
         </td>
     </tr>
     <tr>
         <td><tt>PAS</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://matwbn.icm.edu.pl/ksiazki/fm/fm161/fm16113.pdf">fm16113</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://matwbn.icm.edu.pl/ksiazki/fm/fm161/fm16113.pdf">fm16113</a></td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=1713200">1713200</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=1713200">1713200</a></td>
     </tr>
     
     <tr><td colspan="2"><hr/></td></tr>
@@ -784,18 +784,18 @@ author_profile: true
     <tr>
         <td><tt>Journal</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="http://www.elsevier.com/wps/locate/issn/00218693">
+            <a class="aa" target="GGnSndWndw" href="https://www.elsevier.com/wps/locate/issn/00218693">
             Journal of Algebra</a>,<br/>
             Volume 201, Issue 2, 15 March 1998, Pages 686-702
         </td>
     </tr>
     <tr>
         <td><tt>DOI</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://dx.doi.org/10.1006/jabr.1997.7303">10.1006/jabr.1997.7303</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.1006/jabr.1997.7303">10.1006/jabr.1997.7303</a></td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=1612359">1612359</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=1612359">1612359</a></td>
     </tr>
 
     <tr><td colspan="2"><hr/></td></tr>
@@ -814,11 +814,11 @@ author_profile: true
     </tr>
     <tr>
         <td><tt>Advisor</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://homepages.abdn.ac.uk/d.j.benson/html/index.html">Prof. David J. Benson</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://homepages.abdn.ac.uk/d.j.benson/html/index.html">Prof. David J. Benson</a></td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="http://www.ams.org/mathscinet-getitem?mr=2699053">2699053</a></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://www.ams.org/mathscinet-getitem?mr=2699053">2699053</a></td>
     </tr>
     
     <tr><td colspan="2"><hr/></td></tr>

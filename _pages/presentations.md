@@ -121,7 +121,7 @@ layout: archive
         <td>
             Central Fall Sectional Meeting, American Mathematical Society <br/>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.ams.org/meetings/sectional/2219_program_ss28.html">
+            href="https://www.ams.org/meetings/sectional/2219_program_ss28.html">
             Special Session on Recent Developments in the Theory and Applications of Reaction Network Models</a><br/>
             Loyola University Chicago, Chicago, Illinois, USA
         </td>
@@ -399,7 +399,7 @@ layout: archive
         <td><tt>Event</tt></td>
         <td>
             Recent Developments in Nonlinear Analysis and Applications <br/>
-            Organized by the <a class="aa" target="GGnSndWndw" href="http://www.imsp-benin.com/">Institute of Mathematics and Physical Sciences</a>, Porto-Novo, Benin. Held in Cotonou, Benin.
+            Organized by the <a class="aa" target="GGnSndWndw" href="https://www.imsp-benin.com/">Institute of Mathematics and Physical Sciences</a>, Porto-Novo, Benin. Held in Cotonou, Benin.
         </td>
     </tr>
     <tr>
@@ -486,12 +486,12 @@ layout: archive
         <td><tt>Event</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.samsi.info/programs/2008algebraicmethodsprogram.shtml">
+            href="https://www.samsi.info/programs/2008algebraicmethodsprogram.shtml">
             2008-2009 Program on Algebraic Methods in Systems Biology and Statistics</a> - 
             <a class="aa" target="GGnSndWndw"
-            href="http://www.samsi.info/workshops/2008algebraic-transition200906.shtml">
+            href="https://www.samsi.info/workshops/2008algebraic-transition200906.shtml">
             Transition Workshop</a><br/>
-            <a class="aa" target="GGnSndWndw" href="http://www.samsi.info/">
+            <a class="aa" target="GGnSndWndw" href="https://www.samsi.info/">
             Statistical and Applied Mathematical Sciences Institute</a> (SAMSI),
             Research Triangle Park, North Carolina, USA
         </td>
@@ -524,13 +524,13 @@ layout: archive
         <td>
             Control Theory and Dynamics in Systems Biology:
             <a class="aa" target="GGnSndWndw"
-            href="http://dimacs.rutgers.edu/Workshops/SystemsBiology/program.html">
+            href="https://dimacs.rutgers.edu/Workshops/SystemsBiology/program.html">
             Workshop</a>
             and
             <a class="aa" target="GGnSndWndw"
-            href="http://dimacs.rutgers.edu/Workshops/SystemsBiologyWG/index.html">
+            href="https://dimacs.rutgers.edu/Workshops/SystemsBiologyWG/index.html">
             Working Group</a></br>
-            <a class="aa" target="GGnSndWndw" href="http://dimacs.rutgers.edu/">
+            <a class="aa" target="GGnSndWndw" href="https://dimacs.rutgers.edu/">
             Center for Discrete Mathematics and Theoretical Computer Science</a> (DIMACS),
             Rutgers University, Piscataway, New Jersey, USA<br/>
         </td>
@@ -563,7 +563,7 @@ layout: archive
         <td>
             Southeastern Section Meeting, American Mathematical Society<br/>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.ams.org/amsmtgs/2155_program_ss22.html">
+            href="https://www.ams.org/amsmtgs/2155_program_ss22.html">
             Special Session on the Mathematics of Biochemical Reaction Networks</a><br/>
             North Carolina State University, Raleigh, North Carolina, USA
         </td>
@@ -596,10 +596,10 @@ layout: archive
         <td><tt>Event</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.samsi.info/programs/2008algebraicmethodsprogram.shtml">
+            href="https://www.samsi.info/programs/2008algebraicmethodsprogram.shtml">
             2008-2009 Program on Algebraic Methods in Systems Biology and Statistics</a> -
             Working Group on Systems Biology<br/>
-            <a class="aa" target="GGnSndWndw" href="http://www.samsi.info/">
+            <a class="aa" target="GGnSndWndw" href="https://www.samsi.info/">
             Statistical and Applied Mathematical Sciences Institute</a> (SAMSI),
             Research Triangle Park, North Carolina, USA
         </td>
@@ -660,9 +660,9 @@ layout: archive
         <td><tt>Event</tt></td>
         <td>
             <a class="aa" target="GGnSndWndw"
-            href="http://www.samsi.info/programs/2008algebraicmethodsprogram.shtml">
+            href="https://www.samsi.info/programs/2008algebraicmethodsprogram.shtml">
             2008-2009 Program on Algebraic Methods in Systems Biology and Statistics</a> - Tutorials and Opening Workshop<br/>
-            <a class="aa" target="GGnSndWndw" href="http://www.samsi.info/">
+            <a class="aa" target="GGnSndWndw" href="https://www.samsi.info/">
             Statistical and Applied Mathematical Sciences Institute</a> (SAMSI),
             Research Triangle Park, North Carolina, USA<br/>
         </td>

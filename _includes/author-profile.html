@@ -4,7 +4,7 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<div itemscope itemtype="http://schema.org/Person">
+<div itemscope itemtype="https://schema.org/Person">
 
   <div class="author__avatar">
     {% if author.avatar contains "://" %}
@@ -29,7 +29,7 @@
         <li><a target="GGnSndWndw" href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
       {% if author.orcid %}
-        <li><a target="GGnSndWndw" href="http://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a target="GGnSndWndw" href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
       {% endif %}
       {% if author.mathoverflow %}
         <li><a target="GGnSndWndw" href="https://mathoverflow.net/users/{{ author.mathoverflow }}"><i class="fa fa-fw fa-stack-exchange"></i> MathOverflow</a></li>
