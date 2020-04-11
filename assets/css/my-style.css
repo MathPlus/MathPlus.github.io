@@ -19,6 +19,5 @@ a.aa:hover, a.aa:active {
 }
 a.bb {
     text-decoration: none;
-	pointer-events: none;
-	cursor: none;
+    pointer-events: none;
 }
