@@ -17,8 +17,7 @@ a.aa:link, a.aa:visited {
 a.aa:hover, a.aa:active {
     text-decoration: underline;
 }
-a.bb:link, a.bb:hover, a.bb:active, a.bb:visited {
-    color: Indigo;
+a.bb {
     text-decoration: none;
 	pointer-events: none;
 	cursor: none;
