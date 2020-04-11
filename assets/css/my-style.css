@@ -21,5 +21,5 @@ a.bb:link, a.bb:hover, a.bb:active, a.bb:visited {
     color: Indigo;
     text-decoration: none;
 	pointer-events: none;
-	cursor: default;
+	cursor: none;
 }
