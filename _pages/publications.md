@@ -760,14 +760,14 @@ author_profile: true
     <tr>
         <td><tt>Journal</tt></td>
         <td>
-            <a class="aa" target="GGnSndWndw" href="https://journals.impan.gov.pl/fm/">
+            <a class="aa" target="GGnSndWndw" href="https://www.impan.pl/en/publishing-house/journals-and-series/fundamenta-mathematicae">
             Fundamenta Mathematicae</a>,<br/>
             Volume 161, 1999, Pages 37-91
         </td>
     </tr>
     <tr>
-        <td><tt>PAS</tt></td>
-        <td><a class="aa" target="GGnSndWndw" href="https://matwbn.icm.edu.pl/ksiazki/fm/fm161/fm16113.pdf">fm16113</a></td>
+        <td><tt>DOI</tt></td>
+        <td><a class="aa" target="GGnSndWndw" href="https://dx.doi.org/10.4064/fm-161-1-2-37-91">10.4064/fm-161-1-2-37-91</a></td>
     </tr>
     <tr>
         <td><tt>Math Rev</tt></td>
