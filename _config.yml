@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 name                     : &name "Gilles Gnacadja, PhD"
-description              : &description "Mathematician and leader accomplished at steering solutions to complex analytical problems by utilizing both mechanistic and or data-driven models in multidisciplinary collaborations. Strong proponent of explainability and interpretability in data science and champion of thoroughness and principled practices."
+description              : &description "Data scientist, applied mathematician, innovator, leader. Accomplished at crafting and delivering solutions to complex analytical problems through the judicious use of data-driven and mechanisms-based models in multidisciplinary collaborations. Champion of relentless attention to genuine impact and interpretability in data science."
 title                    : "math.GillesGnacadja.info"
 title_separator          : "-"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
