@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="Author" content="Gilles Gnacadja">
+	<title>Metrics of Binary Classifier Performance: Predictive vs. Retrodictive</title>
+	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+	<script src="my-MathJax-config.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://tikzjax.com/v1/fonts.css">
+    <script src="https://tikzjax.com/v1/tikzjax.js"></script>
+</head>
+
+<body>
+
+<h1>Metrics of Binary Classifier Performance: Predictive vs. Retrodictive</h1>
+<h3><a href="https://math.gillesgnacadja.info/" target="_blank" rel="noopener noreferrer">Gilles Gnacadja</a></h3>
+
+
+<p>
+I point out that the $\TPR$, the $\FNR$, the $\TNR$ and the $\FPR$, which are commonly used metrics to gauge the performance of binary classifiers, are retrodictive. I then contrast them with their predictive counterparts and name these according to a coherent, self-explanatory scheme. I also provide equations to convert from one set of rates to the other, and interactive visuals that enable exploring this interdependence: <a href="from-retrodictive-to-predictive.html" target="_blank" rel="noopener noreferrer">from retrodictive to predictive</a> and <a href="from-predictive-to-retrodictive.html" target="_blank" rel="noopener noreferrer">from predictive to retrodictive</a>.
+</p>
+
+<h2>Retrodictive Metrics of Binary Classifier Performance</h2>
+
+For a binary classifier, the  most self-explanatory metrics of performance that might be
+<ul>
+<li>the True Positive Rate ($\TPR$) and its complement, the False Negative Rate ($\FNR$); and</li>
+<li>the True Negative Rate ($\TNR$) and its complement, the False Positive Rate ($\FPR$).</li>
+</ul>
+They are defined as follows.
+<table>
+<tr>
+<td>$\TPR$</td><td>:</td>
+<td>Proportion of objects predicted to be in the positive class among objects observed to be in the positive class</td>
+</tr>
+<tr>
+<td>$\FNR$</td><td>:</td>
+<td>Proportion of objects predicted to be in the negative class among objects observed to be in the positive class</td>
+</tr>
+<tr>
+<td>$\TNR$</td><td>:</td>
+<td>Proportion of objects predicted to be in the negative class among objects observed to be in the negative class</td>
+</tr>
+<tr>
+<td>$\FPR$</td><td>:</td>
+<td>Proportion of objects predicted to be in the positive class among objects observed to be in the negative class</td>
+</tr>
+</table>
+<br/>
+These rates actually are conditional probabilities that a prediction is correct or incorrect given an observation. As such, they provide a <em>retrodictive</em> assessment of the classifier's performance. For explicitness, I denote prediction and observation events as follows.
+<table>
+<tr>
+<td>$A$</td><td>:</td>
+<td>An object is predicted to be in the positive class.</td>
+</tr>
+<tr>
+<td>$B$</td><td>:</td>
+<td>An object is observed to be in the positive class.</td>
+</tr>
+</table>
+<br/>
+Using common notations of probability theory, the following holds.
+\begin{equation*}
+\TPR = p(A|B) \qquad \FNR = p(\bar{A}|B) \qquad \TNR = p(\bar{A}|\bar{B}) \qquad \FPR = p(A|\bar{B})
+\end{equation*}
+</body>
+
+<h2>Predictive Metrics of Binary Classifier Performance</h2>
+
+I think that the reliability of a binary classifier is better evaluated by considering the conditional probabilities that observations match or mismatch given predictions. More explicitly, I think the following conditional probabilities are more pertinent.
+<table>
+<tr>
+<td>$p(B|A)$</td><td>:</td>
+<td>Proportion of objects observed to be in the positive class among objects predicted to be in the positive class</td>
+</tr>
+<tr>
+<td>$p(\bar{B}|A)$</td><td>:</td>
+<td>Proportion of objects observed to be in the negative class among objects predicted to be in the positive class</td>
+</tr>
+<tr>
+<td>$p(\bar{B}|\bar{A})$</td><td>:</td>
+<td>Proportion of objects observed to be in the negative class among objects predicted to be in the negative class</td>
+</tr>
+<tr>
+<td>$p(B|\bar{A})$</td><td>:</td>
+<td>Proportion of objects observed to be in the positive class among objects predicted to be in the negative class</td>
+</tr>
+</table>
+<br/>
+I think of these probabilities as <em>predictive</em>: predictions are given, and the assessment is whether or not they match observations. For this reason, I find it convenient to name them as follows.
+<table>
+<tr>
+<td>$p(B|A)$</td><td>$=$</td><td>$\pTPR$</td><td>:</td>
+<td>Predictive True Positive Rate</td>
+</tr>
+<tr>
+<td>$p(\bar{B}|A)$</td><td>$=$</td><td>$\pFPR$</td><td>:</td>
+<td>Predictive False Positive Rate</td>
+</tr>
+<tr>
+<td>$p(\bar{B}|\bar{A})$</td><td>$=$</td><td>$\pTNR$</td><td>:</td>
+<td>Predictive True Negative Rate</td>
+</tr>
+<tr>
+<td>$p(B|\bar{A})$</td><td>$=$</td><td>$\pFNR$</td><td>:</td>
+<td>Predictive False Negative Rate</td>
+</tr>
+</table>
+<br/>
+These predictive rates <a href="https://en.wikipedia.org/wiki/Confusion_matrix" target="_blank" rel="noopener noreferrer">already have names</a>:
+<table>
+<tr>
+<td>$\pTPR$</td><td>:</td>
+<td>Positive Predictive Value (PPV); Precision</td>
+</tr>
+<tr>
+<td>$\pFPR$</td><td>:</td>
+<td>False Discovery Rate (FDR)</td>
+</tr>
+<tr>
+<td>$\pTNR$</td><td>:</td>
+<td>Negative Predictive Value (NPV)</td>
+</tr>
+<tr>
+<td>$\pFNR$</td><td>:</td>
+<td>False Omission Rate (FOR)</td>
+</tr>
+</table>
+<br/>
+The naming scheme herein is I think more coherent and self-explanatory.
+
+<h2>Notations</h2>
+
+The following notations will make it convenient to write down equations for conversion between the two sets of rates; and help reveal a pattern among the equations.
+<br/><br/>
+I denote $\alpha$ and $\beta$ are the <a href="https://en.wikipedia.org/wiki/Odds" target="_blank" rel="noopener noreferrer">odds</a> of the predicted negative class and the observed negative class, respectively.
+\begin{equation*}
+\alpha = \dfrac{ 1 - p(A) }{ p(A) } \qquad \beta = \dfrac{ 1 - p(B) }{ p(B) }
+\end{equation*}
+I denote $f$ and $g$ the bivariate and trivariate functions defined as follows.
+\begin{equation*}
+f(t,r) = \dfrac{ 1 }{ 1 + t r } \qquad g(t,u,v) = \dfrac{ 1 }{ 1 + t v/u } = f(t,v/u)
+\end{equation*}
+
+<h2>From Retrodictive to Predictive</h2>
+
+\begin{align}
+\label{eq:pTPR}
+\pTPR &= \dfrac{ 1 }{ 1 + \beta \times \dfrac{\FPR}{\TPR} } = g( \beta , \TPR , \FPR ) \\[2mm]
+\label{eq:pFNR}
+\pFNR &= \dfrac{ 1 }{ 1 + \beta \times \dfrac{\TNR}{\FNR} } = g( \beta , \FNR , \TNR ) \\[2mm]
+\label{eq:pFPR}
+\pFPR &= \dfrac{ 1 }{ 1 + \dfrac{1}{\beta} \times \dfrac{\TPR}{\FPR} } = g( 1/\beta , \FPR , \TPR ) \\[2mm]
+\label{eq:pTNR}
+\pTNR &= \dfrac{ 1 }{ 1 + \dfrac{1}{\beta} \times \dfrac{\FNR}{\TNR} } = g( 1/\beta , \TNR , \FNR )
+\end{align}
+
+<p align="center">
+<a href="from-retrodictive-to-predictive.html" target="_blank" rel="noopener noreferrer">Access to interactive visual</a>
+</p>
+
+<h2>From Predictive to Retrodictive</h2>
+
+\begin{align}
+\label{eq:TPR}
+\TPR &= \dfrac{ 1 }{ 1 + \alpha \times \dfrac{\pFNR}{\pTPR} } = g( \alpha , \pTPR , \pFNR ) \\[2mm]
+\label{eq:FPR}
+\FPR &= \dfrac{ 1 }{ 1 + \alpha \times \dfrac{\pTNR}{\pFPR} } = g( \alpha , \pFPR , \pTNR ) \\[2mm]
+\label{eq:TNR}
+\TNR &= \dfrac{ 1 }{ 1 + \dfrac{1}{\alpha} \times \dfrac{\pFPR}{\pTNR} } = g( 1/\alpha , \pTNR , \pFPR ) \\[2mm]
+\label{eq:FNR}
+\FNR &= \dfrac{ 1 }{ 1 + \dfrac{1}{\alpha} \times \dfrac{\pTPR}{\pFNR} } = g( 1/\alpha , \pFNR , \pTPR )
+\end{align}
+
+<p align="center">
+<a href="from-predictive-to-retrodictive.html" target="_blank" rel="noopener noreferrer">Access to interactive visual</a>
+</p>
+
+<h2>Consolidating the Conversion Equations</h2>
+
+Let $h = (h_{1},h_{2})$ be the function given as follows.
+\begin{equation*}
+h_{1} = g \qquad\qquad h_{2}(t,u,v) = g(t,1-u,1-v)
+\end{equation*}
+Equations \eqref{eq:pTPR} and \eqref{eq:pFNR} consolidate into equation \eqref{eq:Retrodictive-to-Predictive}.<br/>
+Equations \eqref{eq:TPR} and \eqref{eq:FPR} consolidate into equation \eqref{eq:Predictive-to-Retrodictive}.
+
+\begin{align}
+\label{eq:Retrodictive-to-Predictive}
+( \pTPR , \pFNR ) &= h( \beta , \TPR , \FPR ) \\[2mm]
+\label{eq:Predictive-to-Retrodictive}
+( \TPR , \FPR ) &= h( \alpha , \pTPR , \pFNR )
+\end{align}
+
+Equations \eqref{eq:Retrodictive-to-Predictive} and \eqref{eq:Predictive-to-Retrodictive} further consolidate into the following diagram.
+
+<script type="text/tikz">
+\begin{tikzpicture}
+\node at (0, 0) (node1) {$(\mathtt{TPR},\mathtt{FPR})$} ;
+\node at (5, 0) (node2) {$(\mathtt{pTPR},\mathtt{pFNR})$} ;
+\draw[->] (node1) edge[bend left] node (node3) [above]{$h(\beta,.,.)$}  (node2) ;
+\draw[->] (node2) edge[bend left] node (node4) [below]{$h(\alpha,.,.)$} (node1) ;
+\end{tikzpicture}
+</script>
+
+<h2>Additional Interesting Equations</h2>
+
+Equations \eqref{eq:ratios1} and \eqref{eq:ratios2} can be obtained from equations \eqref{eq:pTPR} and \eqref{eq:pFNR}, respectively.<br/>
+Equations \eqref{eq:ratios3} and \eqref{eq:ratios4} can be obtained from equations \eqref{eq:TPR} and \eqref{eq:FPR}, respectively.
+
+\begin{align}
+\label{eq:ratios1}
+\beta \times \dfrac{\FPR}{\TPR} &= \dfrac{\pFPR}{\pTPR} \\[2mm]
+\label{eq:ratios2}
+\beta \times \dfrac{\TNR}{\FNR} &= \dfrac{\pTNR}{\pFNR} \\[2mm]
+\label{eq:ratios3}
+\alpha \times \dfrac{\pFNR}{\pTPR} &= \dfrac{\FNR}{\TPR} \\[2mm]
+\label{eq:ratios4}
+\alpha \times \dfrac{\pTNR}{\pFPR} &= \dfrac{\TNR}{\FPR}
+\end{align}
+
+<h2>Proofs of Equations</h2>
+
+The following is an identity equation.
+\begin{equation}
+\label{eq:ideq}
+\begin{split}
+p(Y|X) &= \dfrac{ 1 }{ 1 + \dfrac{ p(\bar{Y}) }{ p(Y) } \times \dfrac{ p(X|\bar{Y}) }{ p(X|Y) } }
+\end{split}
+\end{equation}
+
+Proof of equation \eqref{eq:ideq}:
+\begin{equation*}
+p(Y|X)
+= \dfrac{ p( X \wedge Y ) }{ p(X) }
+= \dfrac{ p( X \wedge Y ) }{ p( X \wedge Y ) + p( X \wedge \bar{Y} ) }
+= \dfrac{ 1 }{ 1 + \dfrac{ p( X \wedge \bar{Y} ) }{ p( X \wedge Y ) } }
+= \dfrac{ 1 }{ 1 + \dfrac{ p(\bar{Y}) \times p(X|\bar{Y}) }{ p(Y) \times p(X|Y) } }
+= \dfrac{ 1 }{ 1 + \dfrac{ p(\bar{Y}) }{ p(Y) } \times \dfrac{ p(X|\bar{Y}) }{ p(X|Y) } }
+\end{equation*}
+
+Equations \eqref{eq:pTPR}-\eqref{eq:pTNR} and \eqref{eq:TPR}-\eqref{eq:FNR} are instances of equation \eqref{eq:ideq}.
+
+\begin{equation*}
+\begin{array}{lllllllllll}
+\text{Eq. \eqref{eq:pTPR}} & X = A & Y = B &:& \pTPR &=& p(B|A) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(\bar{B}) }{ p(B) } \times \dfrac{ p(A|\bar{B}) }{ p(A|B) } } &=&
+\dfrac{ 1 }{ 1 + \beta \times \dfrac{\FPR}{\TPR} } \\
+\text{Eq. \eqref{eq:pFNR}} & X = \bar{A} & Y = B &:& \pFNR &=& p(B|\bar{A}) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(\bar{B}) }{ p(B) } \times \dfrac{ p(\bar{A}|\bar{B}) }{ p(\bar{A}|B) } } &=&
+\dfrac{ 1 }{ 1 + \beta \times \dfrac{\TNR}{\FNR} } \\
+\text{Eq. \eqref{eq:pFPR}} & X = A & Y = \bar{B} &:& \pFPR &=& p(\bar{B}|A) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(B) }{ p(\bar{B}) } \times \dfrac{ p(A|B) }{ p(A|\bar{B}) } } &=&
+\dfrac{ 1 }{ 1 + \dfrac{1}{\beta} \times \dfrac{\TPR}{\FPR} } \\
+\text{Eq. \eqref{eq:pTNR}} & X = \bar{A} & Y = \bar{B} &:& \pTNR &=& p(\bar{B}|\bar{A}) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(B) }{ p(\bar{B}) } \times \dfrac{ p(\bar{A}|B) }{ p(\bar{A}|\bar{B}) } } &=&
+\dfrac{ 1 }{ 1 + \dfrac{1}{\beta} \times \dfrac{\FNR}{\TNR} } \\
+\text{Eq. \eqref{eq:TPR}} & X = B & Y = A &:& \TPR &=& p(A|B) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(\bar{A}) }{ p(A) } \times \dfrac{ p(B|\bar{A}) }{ p(B|A) } } &=&
+\dfrac{ 1 }{ 1 + \alpha \times \dfrac{\pFNR}{\pTPR} } \\
+\text{Eq. \eqref{eq:FPR}} & X = \bar{B} & Y = A &:& \FPR &=& p(A|\bar{B}) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(\bar{A}) }{ p(A) } \times \dfrac{ p(\bar{B}|\bar{A}) }{ p(\bar{B}|A) } } &=&
+\dfrac{ 1 }{ 1 + \alpha \times \dfrac{\pTNR}{\pFPR} } \\
+\text{Eq. \eqref{eq:TNR}} & X = \bar{B} & Y = \bar{A} &:& \TNR &=& p(\bar{A}|\bar{B}) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(A) }{ p(\bar{A}) } \times \dfrac{ p(\bar{B}|A) }{ p(\bar{B}|\bar{A}) } } &=&
+\dfrac{ 1 }{ 1 + \dfrac{1}{\alpha} \times \dfrac{\pFPR}{\pTNR} } \\
+\text{Eq. \eqref{eq:FNR}} & X = B & Y = \bar{A} &:& \FNR &=& p(\bar{A}|B) &=&
+\dfrac{ 1 }{ 1 + \dfrac{ p(A) }{ p(\bar{A}) } \times \dfrac{ p(B|A) }{ p(B|\bar{A}) } } &=&
+\dfrac{ 1 }{ 1 + \dfrac{1}{\alpha} \times \dfrac{\pTPR}{\pFNR} }
+\end{array}
+\end{equation*}
+
+<h2>Epilogue</h2>
+
+A binary classifier is typically realized by thresholding a continuous function that produces a prediction score: an object is predicted to belong to the positive class if its prediction score is greater than the threshold. Under these circumstances, an $\FPR$-$\TPR$ curve can be produced by varying the threshold over the range of eligible values; and likewise, a $\pFNR$-$\pTPR$ curve. It is known that the area under the $\FPR$-$\TPR$ curve is the proportion of pairs of objects whose prediction scores are ordered in the same direction that the observations are. I expect that, similarly, the area under the $\pFNR$-$\pTPR$ curve is the proportion of pairs of objects whose observations are ordered in the same direction that the prediction scores are. There are debates on which of the $\FPR$-$\TPR$ curve and the precision-recall curve provide the most pertinent area under the curve (AUC) depending on the observed positive/negative class balance. I think that the $\pFNR$-$\pTPR$ curve should make those questions obsolete. Something I might write about next, time permitting.
+
+</html>
