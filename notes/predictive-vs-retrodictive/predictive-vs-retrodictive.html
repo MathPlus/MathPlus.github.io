@@ -50,6 +50,26 @@ They are defined as follows.
 </tr>
 </table>
 <br/>
+And they also go by <a href="https://en.wikipedia.org/wiki/Confusion_matrix" target="_blank" rel="noopener noreferrer">other names</a>:
+<table>
+<tr>
+<td>$\TPR$</td><td>:</td>
+<td>sensitivity, recall, hit rate</td>
+</tr>
+<tr>
+<td>$\FNR$</td><td>:</td>
+<td>miss rate</td>
+</tr>
+<tr>
+<td>$\TNR$</td><td>:</td>
+<td>specificity, selectivity</td>
+</tr>
+<tr>
+<td>$\FPR$</td><td>:</td>
+<td>fall-out, false alarm rate</td>
+</tr>
+</table>
+<br/>
 These rates actually are conditional probabilities that a prediction is correct or incorrect given an observation. As such, they provide a <em>retrodictive</em> assessment of the classifier's performance. For explicitness, I denote prediction and observation events as follows.
 <table>
 <tr>
@@ -63,10 +83,12 @@ These rates actually are conditional probabilities that a prediction is correct 
 </table>
 <br/>
 Using common notations of probability theory, the following holds.
-\begin{equation*}
-\TPR = p(A|B) \qquad \FNR = p(\bar{A}|B) \qquad \TNR = p(\bar{A}|\bar{B}) \qquad \FPR = p(A|\bar{B})
-\end{equation*}
-</body>
+\begin{align*}
+\TPR &= p(A|B) \\
+\FNR &= p(\bar{A}|B) \\
+\TNR &= p(\bar{A}|\bar{B}) \\
+\FPR &= p(A|\bar{B})
+\end{align*}
 
 <h2>Predictive Metrics of Binary Classifier Performance</h2>
 
@@ -196,7 +218,7 @@ Equations \eqref{eq:TPR} and \eqref{eq:FPR} consolidate into equation \eqref{eq:
 \end{align}
 
 Equations \eqref{eq:Retrodictive-to-Predictive} and \eqref{eq:Predictive-to-Retrodictive} further consolidate into the following diagram.
-
+<p align="center">
 <script type="text/tikz">
 \begin{tikzpicture}
 \node at (0, 0) (node1) {$(\mathtt{TPR},\mathtt{FPR})$} ;
@@ -205,6 +227,7 @@ Equations \eqref{eq:Retrodictive-to-Predictive} and \eqref{eq:Predictive-to-Retr
 \draw[->] (node2) edge[bend left] node (node4) [below]{$h(\alpha,.,.)$} (node1) ;
 \end{tikzpicture}
 </script>
+</p>
 
 <h2>Additional Interesting Equations</h2>
 
@@ -276,5 +299,7 @@ Equations \eqref{eq:pTPR}-\eqref{eq:pTNR} and \eqref{eq:TPR}-\eqref{eq:FNR} are 
 <h2>Epilogue</h2>
 
 A binary classifier is typically realized by thresholding a continuous function that produces a prediction score: an object is predicted to belong to the positive class if its prediction score is greater than the threshold. Under these circumstances, an $\FPR$-$\TPR$ curve can be produced by varying the threshold over the range of eligible values; and likewise, a $\pFNR$-$\pTPR$ curve. It is known that the area under the $\FPR$-$\TPR$ curve is the proportion of pairs of objects whose prediction scores are ordered in the same direction that the observations are. I expect that, similarly, the area under the $\pFNR$-$\pTPR$ curve is the proportion of pairs of objects whose observations are ordered in the same direction that the prediction scores are. There are debates on which of the $\FPR$-$\TPR$ curve and the precision-recall curve provide the most pertinent area under the curve (AUC) depending on the observed positive/negative class balance. I think that the $\pFNR$-$\pTPR$ curve should make those questions obsolete. Something I might write about next, time permitting.
+
+</body>
 
 </html>
